@@ -1,0 +1,760 @@
+[2020-01-18T09:50:40.902] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:16:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T09:50:40.905] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T09:51:23.109] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:16:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T09:51:23.111] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T09:53:03.666] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:16:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T09:53:03.671] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T09:53:12.824] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:16:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T09:53:12.825] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T09:53:44.639] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:16:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T09:53:44.642] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:19:22.158] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:16:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:19:22.162] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:19:38.547] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:16:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:19:38.549] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:19:58.897] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:16:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:19:58.899] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:20:40.089] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:21:30.961] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:21:44.275] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:24:43.927] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:27:32.306] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:62:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:33:30.894] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:33:40.608] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signUp
+request client ip: 127.0.0.1
+request body
+{"username":"z","password":"z","confirmPassword":"z"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 保存出错
+error stack: ServiceUnavailableError: 保存出错
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signUp (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:39:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:35:20.342] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signUp
+request client ip: 127.0.0.1
+request body
+{"username":"z","password":"z","confirmPassword":"z"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 保存出错
+error stack: ServiceUnavailableError: 保存出错
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signUp (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:39:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:38:53.840] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:39:10.062] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:62:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:39:20.240] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:62:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:39:25.815] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:62:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:39:54.959] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:40:14.045] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:40:21.892] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"hx","password":"hx"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:62:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:42:55.796] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"hx","password":"hx"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:63:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:43:42.510] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:63:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:44:18.877] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:63:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:44:35.356] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:63:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:48:29.370] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:63:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:57:26.745] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:64:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:58:22.318] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:65:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T20:59:20.887] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:65:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T21:04:07.344] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+undefined
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'user' of undefined
+error stack: TypeError: Cannot read property 'user' of undefined
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:28:27)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:34:12
+    at Application.handleRequest (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/application.js:162:12)
+    at Server.handleRequest (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/application.js:144:19)
+    at Server.emit (events.js:198:13)
+    at parserOnIncoming (_http_server.js:677:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+***** error log end ******
+
+[2020-01-18T21:04:07.353] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+undefined
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'user' of undefined
+error stack: TypeError: Cannot read property 'user' of undefined
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:28:27)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:34:12
+    at Application.handleRequest (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/application.js:162:12)
+    at Server.handleRequest (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/application.js:144:19)
+    at Server.emit (events.js:198:13)
+    at parserOnIncoming (_http_server.js:677:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+***** error log end ******
+
+[2020-01-18T21:06:26.931] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T21:06:27.003] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T21:07:53.486] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T21:09:05.972] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T21:09:42.745] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-18T21:14:07.329] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/logoout
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+

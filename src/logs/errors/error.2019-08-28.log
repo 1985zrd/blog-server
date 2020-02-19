@@ -1,0 +1,125 @@
+[2019-08-28T16:27:22.593] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user
+request client ip: 10.105.24.46
+request query: {}
+response time: undefined
+error name: CustomError
+error message: 出错了
+error stack: CustomError: 出错了
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/user.js:9:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2019-08-28T16:38:59.981] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user
+request client ip: 10.105.24.46
+request query: {}
+response time: undefined
+error name: CustomError
+error message: 出错了
+error stack: CustomError: 出错了
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/user.js:9:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2019-08-28T16:39:37.143] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user
+request client ip: 10.105.24.46
+request query: {}
+response time: undefined
+error name: CustomError
+error message: 出错了
+error stack: CustomError: 出错了
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/user.js:9:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2019-08-28T17:25:32.527] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user
+request client ip: 10.105.24.46
+request query: {}
+response time: undefined
+error name: CustomError
+error message: 出错了
+error stack: CustomError: 出错了
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/user.js:10:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2019-08-28T19:18:16.665] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user
+request client ip: null
+request query: {}
+response time: undefined
+error name: CustomError
+error message: 出错了
+error stack: CustomError: 出错了
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/user.js:10:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+

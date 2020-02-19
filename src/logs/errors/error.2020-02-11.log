@@ -1,0 +1,112 @@
+[2020-02-11T19:55:48.181] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:18:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-11T20:00:37.688] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:18:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-11T20:01:27.669] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:18:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-11T20:01:33.979] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:18:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-11T20:01:43.681] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:18:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-11T20:01:52.694] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:18:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-11T20:49:08.579] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signOut
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:82:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+

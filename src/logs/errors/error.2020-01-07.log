@@ -1,0 +1,1276 @@
+[2020-01-07T15:01:26.725] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:01:31.829] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:01:40.216] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:02:23.201] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:02:37.403] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:02:38.368] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:02:39.274] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:02:39.811] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:02:40.448] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:04:22.094] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:05:41.314] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:31)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:10:43.387] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'where' of undefined
+error stack: TypeError: Cannot read property 'where' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:6:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:11:09.898] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:11:44.399] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:14:03.151] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: RangeError
+error message: Maximum call stack size exceeded
+error stack: RangeError: Maximum call stack size exceeded
+    at handler (internal/process/promises.js:21:14)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:33:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Object.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+***** error log end ******
+
+[2020-01-07T15:14:03.156] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.statics.find(...).populate is not a function
+error stack: TypeError: this.statics.find(...).populate is not a function
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:15:01.362] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.Find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:17:37.777] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.Find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:35)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:20:37.242] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:20:56.338] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:22:47.796] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:22:49.413] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:22:50.165] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:22:50.728] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:23:16.485] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:23:19.330] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:23:56.981] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:23:58.304] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:23:58.991] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:23:59.499] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:24:09.053] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:24:16.948] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:26:57.291] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:27:32.601] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: this.find is not a function
+error stack: TypeError: this.find is not a function
+    at Function.articalSchema.statics.fetch (/Users/zhangrende/Desktop/blog-project/server/src/model/artical.js:64:4)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:29:19.378] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Artical.fetch is not a function
+error stack: TypeError: Artical.fetch is not a function
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:29:44.746] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: RangeError
+error message: Maximum call stack size exceeded
+error stack: RangeError: Maximum call stack size exceeded
+    at write (console.js:168:9)
+    at Console.log (console.js:200:3)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:27:13)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+***** error log end ******
+
+[2020-01-07T15:29:58.746] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'where' of undefined
+error stack: TypeError: Cannot read property 'where' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:6:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:30:04.662] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: RangeError
+error message: Maximum call stack size exceeded
+error stack: RangeError: Maximum call stack size exceeded
+    at formatValue (internal/util/inspect.js:491:31)
+    at inspect (internal/util/inspect.js:189:10)
+    at Object.formatWithOptions (util.js:84:12)
+    at Console.(anonymous function) (console.js:191:15)
+    at Console.log (console.js:202:31)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:27:13)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:29:6)
+***** error log end ******
+
+[2020-01-07T15:30:38.273] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: RangeError
+error message: Maximum call stack size exceeded
+error stack: RangeError: Maximum call stack size exceeded
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:5:18)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+***** error log end ******
+
+[2020-01-07T15:30:40.406] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: RangeError
+error message: Maximum call stack size exceeded
+error stack: RangeError: Maximum call stack size exceeded
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:5:18)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+***** error log end ******
+
+[2020-01-07T15:32:45.879] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'where' of undefined
+error stack: TypeError: Cannot read property 'where' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:6:16)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:33:00.149] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'where' of undefined
+error stack: TypeError: Cannot read property 'where' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:6:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:33:02.099] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'where' of undefined
+error stack: TypeError: Cannot read property 'where' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:6:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:33:31.194] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'limit' of undefined
+error stack: TypeError: Cannot read property 'limit' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:9:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:33:55.688] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'limit' of undefined
+error stack: TypeError: Cannot read property 'limit' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:9:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:34:04.311] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: RangeError
+error message: Maximum call stack size exceeded
+error stack: RangeError: Maximum call stack size exceeded
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:6)
+***** error log end ******
+
+[2020-01-07T15:36:29.062] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'where' of undefined
+error stack: TypeError: Cannot read property 'where' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:6:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:37:15.701] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'where' of undefined
+error stack: TypeError: Cannot read property 'where' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:6:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:37:26.195] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'where' of undefined
+error stack: TypeError: Cannot read property 'where' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:6:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:6:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:38:03.106] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'where' of undefined
+error stack: TypeError: Cannot read property 'where' of undefined
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:7:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.get (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:86:11)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-01-07T15:38:24.429] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: RangeError
+error message: Maximum call stack size exceeded
+error stack: RangeError: Maximum call stack size exceeded
+    at formatRaw (internal/util/inspect.js:731:12)
+    at formatValue (internal/util/inspect.js:509:10)
+    at inspect (internal/util/inspect.js:189:10)
+    at Object.formatWithOptions (util.js:84:12)
+    at Console.(anonymous function) (console.js:191:15)
+    at Console.log (console.js:202:31)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:13)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+***** error log end ******
+
+[2020-01-07T15:39:09.306] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical
+request client ip: null
+request query: {}
+response time: undefined
+error name: RangeError
+error message: Maximum call stack size exceeded
+error stack: RangeError: Maximum call stack size exceeded
+    at formatRaw (internal/util/inspect.js:731:12)
+    at formatValue (internal/util/inspect.js:509:10)
+    at inspect (internal/util/inspect.js:189:10)
+    at Object.formatWithOptions (util.js:84:12)
+    at Console.(anonymous function) (console.js:191:15)
+    at Console.log (console.js:202:31)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:28:13)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at Function.find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+***** error log end ******
+

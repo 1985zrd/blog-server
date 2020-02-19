@@ -1,0 +1,32 @@
+[2020-02-12T18:31:28.955] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":""}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:20:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-12T20:00:13.320] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":""}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询数据库出错！
+error stack: ServiceUnavailableError: 查询数据库出错！
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:20:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+

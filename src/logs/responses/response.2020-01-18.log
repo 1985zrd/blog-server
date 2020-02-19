@@ -1,0 +1,274 @@
+[2020-01-18T20:20:40.196] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 159
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T20:21:31.095] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 184
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T20:21:41.230] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getDetail?id=5e184fc115a1112f21f5f48d
+request client ip: 127.0.0.1
+request query: {"id":"5e184fc115a1112f21f5f48d"}
+response time: 169
+response status: 200
+response body: 
+{"message":"成功","data":{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","content":"fawgweg","state":2,"__v":0},"code":200}
+***** response log end ******
+
+[2020-01-18T20:21:44.355] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 82
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T20:24:44.025] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 99
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T20:33:31.085] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 199
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T20:35:47.086] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/user/signUp
+request client ip: 127.0.0.1
+request body
+{"username":"hx","password":"hx","confirmPassword":"hx"}
+response time: 481
+response status: 200
+response body: 
+{"message":"成功","data":{"username":"hx"},"code":200}
+***** response log end ******
+
+[2020-01-18T20:38:53.972] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 137
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T20:39:55.183] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 231
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T20:40:14.149] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 111
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T20:43:32.459] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/user/signUp
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1","confirmPassword":"1"}
+response time: 249
+response status: 200
+response body: 
+{"message":"成功","data":{"username":"zhx"},"code":200}
+***** response log end ******
+
+[2020-01-18T21:02:24.741] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1"}
+response time: 531
+response status: 200
+response body: 
+{"message":"成功","data":{"username":"zhx"},"code":200}
+***** response log end ******
+
+[2020-01-18T21:07:53.594] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 151
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T21:09:06.044] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 116
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T21:09:24.676] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"zhx","password":"1"}
+response time: 269
+response status: 200
+response body: 
+{"message":"成功","data":{"username":"zhx"},"code":200}
+***** response log end ******
+
+[2020-01-18T21:09:43.308] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 652
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T21:14:07.624] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"category":"5e181d8ea1a77c95daa48b31"}
+response time: 344
+response status: 200
+response body: 
+{"message":"成功","data":[{"category":"5e181d8ea1a77c95daa48b31","anonymous":false,"introduction":"wgweg","imageUrl":"http://10.105.24.172:9000/upload/5f5fc463d44c70320f4ac36375e96e77.png","visitor":0,"commentators":0,"shared":0,"star":[],"createTime":"2020-01-10T10:18:01.098Z","updateTime":"2020-01-10T10:19:45.676Z","_id":"5e184fc115a1112f21f5f48d","title":"rwrew","state":2,"__v":0}],"code":200}
+***** response log end ******
+
+[2020-01-18T21:14:30.259] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/upload
+request client ip: 127.0.0.1
+request body
+{}
+response time: 17
+response status: 200
+response body: 
+{"message":"成功","data":{"url":"http://function () { // 获取本地ip\n  let interfaces = os.networkInterfaces()\n  for (let name in interfaces) {\n    let iface = interfaces[name]\n    for (let i = 0; i < iface.length; i++) {\n      let alias = iface[i]\n      if (alias.family === 'IPv4' && alias.address !== '127.0.0.1' && !alias.internal) {\n        return alias.address\n      }\n    }\n  }\n}:9000/upload/087a4366cde180141582a4a4ee3b5276.png"},"code":200}
+***** response log end ******
+
+[2020-01-18T21:14:38.184] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"test roles","introduction":"test rolestest roles","content":"test rolestest rolestest rolestest roles","imageUrl":"http://function () { // 获取本地ip\n  let interfaces = os.networkInterfaces()\n  for (let name in interfaces) {\n    let iface = interfaces[name]\n    for (let i = 0; i < iface.length; i++) {\n      let alias = iface[i]\n      if (alias.family === 'IPv4' && alias.address !== '127.0.0.1' && !alias.internal) {\n        return alias.address\n      }\n    }\n  }\n}:9000/upload/087a4366cde180141582a4a4ee3b5276.png","category":"5e181e77a1a77c95daa48b36","state":2,"anonymous":false}
+response time: 1
+response status: 200
+response body: 
+{"code":400,"message":"未登录test........"}
+***** response log end ******
+
+[2020-01-18T21:14:50.314] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"test roles","introduction":"test rolestest roles","content":"test rolestest rolestest rolestest roles","imageUrl":"http://function () { // 获取本地ip\n  let interfaces = os.networkInterfaces()\n  for (let name in interfaces) {\n    let iface = interfaces[name]\n    for (let i = 0; i < iface.length; i++) {\n      let alias = iface[i]\n      if (alias.family === 'IPv4' && alias.address !== '127.0.0.1' && !alias.internal) {\n        return alias.address\n      }\n    }\n  }\n}:9000/upload/087a4366cde180141582a4a4ee3b5276.png","category":"5e181e77a1a77c95daa48b36","state":2,"anonymous":false}
+response time: 1
+response status: 200
+response body: 
+{"code":400,"message":"未登录test........"}
+***** response log end ******
+
+[2020-01-18T21:19:43.976] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"test roles","introduction":"test rolestest roles","content":"test rolestest rolestest rolestest roles","imageUrl":"http://function () { // 获取本地ip\n  let interfaces = os.networkInterfaces()\n  for (let name in interfaces) {\n    let iface = interfaces[name]\n    for (let i = 0; i < iface.length; i++) {\n      let alias = iface[i]\n      if (alias.family === 'IPv4' && alias.address !== '127.0.0.1' && !alias.internal) {\n        return alias.address\n      }\n    }\n  }\n}:9000/upload/087a4366cde180141582a4a4ee3b5276.png","category":"5e181e77a1a77c95daa48b36","state":2,"anonymous":false}
+response time: 39
+response status: 200
+response body: 
+{"code":401,"message":"用户未登录"}
+***** response log end ******
+
+[2020-01-18T21:20:54.495] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/upload
+request client ip: 127.0.0.1
+request body
+{}
+response time: 31
+response status: 200
+response body: 
+{"message":"成功","data":{"url":"http://172.20.10.7:9000/upload/fb7a291cd61aa518308dc313061062c7.png"},"code":200}
+***** response log end ******
+
+[2020-01-18T21:20:54.532] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /upload/fb7a291cd61aa518308dc313061062c7.png
+request client ip: 172.20.10.7
+request query: {}
+response time: 8
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"paused":true,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":2,"path":"/Users/zhangrende/Desktop/blog-project/server/src/public/upload/fb7a291cd61aa518308dc313061062c7.png","fd":null,"flags":"r","mode":438,"end":null,"autoClose":true,"bytesRead":0,"closed":false}
+***** response log end ******
+

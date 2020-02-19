@@ -1,0 +1,37 @@
+{
+  "name": "blog-project",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./src/app.js",
+    "dev": "webpack-dev-server --config ./build/webpack.config.dev.js",
+    "build": "webpack --config ./build/webpack.config.js"
+  },
+  "keywords": [],
+  "author": "rende",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-body": "^4.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-generic-session": "^2.0.1",
+    "koa-generic-session-mongo": "^0.4.0",
+    "koa-router": "^7.4.0",
+    "koa-session-mongoose": "^2.0.5",
+    "koa-static": "^5.0.0",
+    "log4js": "^5.1.0",
+    "mongoose": "^5.6.10",
+    "xss": "^1.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/polyfill": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.8.1"
+  }
+}

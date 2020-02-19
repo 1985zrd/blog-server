@@ -1,0 +1,46 @@
+[2020-02-18T14:50:14.015] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/getCategory
+request client ip: 127.0.0.1
+request query: {}
+response time: 188
+response status: 200
+response body: 
+{"message":"成功","data":[{"createTime":"2020-02-18T06:49:44.481Z","updateTime":"2020-02-18T06:49:44.481Z","_id":"5e181d8ea1a77c95daa48b31","name":"推荐","state":1},{"createTime":"2020-02-18T06:49:44.481Z","updateTime":"2020-02-18T06:49:44.481Z","_id":"5e181e2ca1a77c95daa48b32","name":"web前端","state":1},{"createTime":"2020-02-18T06:49:44.481Z","updateTime":"2020-02-18T06:49:44.481Z","_id":"5e181e5aa1a77c95daa48b33","name":"nodejs","state":1},{"createTime":"2020-02-18T06:49:44.481Z","updateTime":"2020-02-18T06:49:44.481Z","_id":"5e181e67a1a77c95daa48b34","name":"摄影","state":1},{"createTime":"2020-02-18T06:49:44.481Z","updateTime":"2020-02-18T06:49:44.481Z","_id":"5e181e6fa1a77c95daa48b35","name":"旅游","state":1},{"createTime":"2020-02-18T06:49:44.481Z","updateTime":"2020-02-18T06:49:44.481Z","_id":"5e181e77a1a77c95daa48b36","name":"电影","state":1},{"createTime":"2020-02-18T06:49:44.481Z","updateTime":"2020-02-18T06:49:44.481Z","_id":"5e181e80a1a77c95daa48b37","name":"娱乐","state":1}],"code":200}
+***** response log end ******
+
+[2020-02-18T14:50:14.031] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"where":{},"limit":10,"skip":0}
+response time: 258
+response status: 200
+response body: 
+{"message":"成功","data":{"data":[{"anonymous":false,"introduction":"fewfewg","imageUrl":"","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T15:48:28.682Z","updateTime":"2020-02-16T15:48:59.601Z","_id":"5e49646b4960e874f6741018","author":"5e416341717aeb4a703bc1f7","title":"haha","category":"5e181e2ca1a77c95daa48b32","state":2,"__v":0},{"anonymous":false,"introduction":"简介123","imageUrl":"","visitor":0,"commentators":0,"shared":0,"star":1,"starList":["5e416341717aeb4a703bc1f7"],"createTime":"2020-02-16T14:45:32.039Z","updateTime":"2020-02-16T15:39:02.937Z","_id":"5e495710ae505473ddd433d5","author":"5e416341717aeb4a703bc1f7","title":"测试123","category":"5e181e2ca1a77c95daa48b32","state":2,"__v":0},{"anonymous":false,"introduction":"简介123","imageUrl":"","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T14:45:32.039Z","updateTime":"2020-02-16T14:52:07.379Z","_id":"5e495717ae505473ddd433d6","author":"5e416341717aeb4a703bc1f7","title":"测试123","category":"5e181e2ca1a77c95daa48b32","state":2,"__v":0},{"anonymous":false,"introduction":"简介123","imageUrl":"","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T14:45:32.039Z","updateTime":"2020-02-16T14:53:38.349Z","_id":"5e495772ae505473ddd433d7","author":"5e416341717aeb4a703bc1f7","title":"测试123","category":"5e181e2ca1a77c95daa48b32","state":2,"__v":0},{"anonymous":false,"introduction":"简介","imageUrl":"","visitor":0,"commentators":0,"shared":0,"star":5,"starList":["5e416341717aeb4a703bc1f7"],"createTime":"2020-02-16T04:11:07.478Z","updateTime":"2020-02-16T09:48:30.202Z","_id":"5e48c1ea6264c17009ad8fa3","author":"5e416341717aeb4a703bc1f7","title":"测试","category":"5e181e5aa1a77c95daa48b33","state":2,"__v":0},{"anonymous":false,"introduction":"测试简介","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T04:00:59.765Z","updateTime":"2020-02-16T04:01:24.257Z","_id":"5e48be9462e03a6fd9aee13b","category":"5e181e2ca1a77c95daa48b32","title":"测试标题","state":2,"__v":0},{"anonymous":false,"introduction":"测试简介","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T03:57:28.378Z","updateTime":"2020-02-16T03:58:04.998Z","_id":"5e48bdccfa66036fc7a5ba5a","category":"5e181e2ca1a77c95daa48b32","title":"测试标题","state":2,"__v":0},{"anonymous":false,"introduction":"测试简介","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T03:52:30.579Z","updateTime":"2020-02-16T03:53:25.886Z","_id":"5e48bcb51684a46fc3f999b8","category":"5e181e2ca1a77c95daa48b32","title":"测试标题","state":2,"__v":0},{"anonymous":false,"introduction":"测试简介","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T03:52:30.579Z","updateTime":"2020-02-16T03:53:30.756Z","_id":"5e48bcba1684a46fc3f999b9","category":"5e181e2ca1a77c95daa48b32","title":"测试标题","state":2,"__v":0},{"anonymous":false,"introduction":"测试简介","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T03:52:30.579Z","updateTime":"2020-02-16T03:54:55.274Z","_id":"5e48bd0f1684a46fc3f999ba","category":"5e181e2ca1a77c95daa48b32","title":"测试标题","state":2,"__v":0}],"total":28},"code":200}
+***** response log end ******
+
+[2020-02-18T14:50:14.039] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"limit":5,"order":{"star":-1}}
+response time: 218
+response status: 200
+response body: 
+{"message":"成功","data":{"data":[{"anonymous":false,"introduction":"简介","imageUrl":"","visitor":0,"commentators":0,"shared":0,"star":5,"starList":["5e416341717aeb4a703bc1f7"],"createTime":"2020-02-16T04:11:07.478Z","updateTime":"2020-02-16T09:48:30.202Z","_id":"5e48c1ea6264c17009ad8fa3","author":"5e416341717aeb4a703bc1f7","title":"测试","category":"5e181e5aa1a77c95daa48b33","state":2,"__v":0},{"anonymous":false,"introduction":"简介123","imageUrl":"","visitor":0,"commentators":0,"shared":0,"star":1,"starList":["5e416341717aeb4a703bc1f7"],"createTime":"2020-02-16T14:45:32.039Z","updateTime":"2020-02-16T15:39:02.937Z","_id":"5e495710ae505473ddd433d5","author":"5e416341717aeb4a703bc1f7","title":"测试123","category":"5e181e2ca1a77c95daa48b32","state":2,"__v":0},{"anonymous":false,"introduction":"测试简介","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T03:49:26.381Z","updateTime":"2020-02-16T03:50:22.635Z","_id":"5e48bbfe2f31486fb626bd16","category":"5e181e2ca1a77c95daa48b32","title":"测试标题","state":2,"__v":0},{"anonymous":false,"introduction":"测试简介","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T03:52:30.579Z","updateTime":"2020-02-16T03:53:25.886Z","_id":"5e48bcb51684a46fc3f999b8","category":"5e181e2ca1a77c95daa48b32","title":"测试标题","state":2,"__v":0},{"anonymous":false,"introduction":"测试简介","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","visitor":0,"commentators":0,"shared":0,"star":0,"starList":[],"createTime":"2020-02-16T03:52:30.579Z","updateTime":"2020-02-16T03:53:30.756Z","_id":"5e48bcba1684a46fc3f999b9","category":"5e181e2ca1a77c95daa48b32","title":"测试标题","state":2,"__v":0}],"total":28},"code":200}
+***** response log end ******
+
+[2020-02-18T14:50:14.094] [INFO] responseLog - 
+***** response log start *****
+request originalUrl: /upload/fb7a291cd61aa518308dc313061062c7.png
+request client ip: 192.168.1.10
+request query: {}
+response time: 9
+response status: 200
+response body: 
+{"_readableState":{"objectMode":false,"highWaterMark":65536,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"paused":true,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrain":0,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":2,"path":"/Users/zhangrende/Desktop/blog-project/server/src/public/upload/fb7a291cd61aa518308dc313061062c7.png","fd":null,"flags":"r","mode":438,"end":null,"autoClose":true,"bytesRead":0,"closed":false}
+***** response log end ******
+

@@ -1,0 +1,1425 @@
+[2020-02-16T11:47:05.439] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试标题","introduction":"测试简介","content":"测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....","imageUrl":"","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T11:50:22.630] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试标题","introduction":"测试简介","content":"测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....测试内容....","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T11:53:25.881] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试标题","introduction":"测试简介","content":"测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T11:53:30.754] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试标题","introduction":"测试简介","content":"测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T11:54:55.273] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试标题","introduction":"测试简介","content":"测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T11:58:04.994] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试标题","introduction":"测试简介","content":"测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T12:01:24.253] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试标题","introduction":"测试简介","content":"测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。测试内容。。。","imageUrl":"http://192.168.1.10:9000/upload/fb7a291cd61aa518308dc313061062c7.png","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T12:15:38.075] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试","introduction":"简介","content":"内容。。。内容。。。内容。。。内容。。。内容。。。内容。。。内容。。。","imageUrl":"","category":"5e181e5aa1a77c95daa48b33","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T16:59:57.390] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"15811013432","password":"1985zrd"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:77:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:33:13.202] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: TypeError
+error message: Cannot read property '_id' of undefined
+error stack: TypeError: Cannot read property '_id' of undefined
+    at exports.zan (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:107:32)
+    at router.post (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:26:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:34:31.690] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:36:16.029] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:41:32.295] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:43:21.414] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T17:43:35.413] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:45:33.531] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T17:45:51.696] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:47:19.113] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T17:47:37.988] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:48:14.905] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T17:48:30.168] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:49:20.045] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T17:49:33.142] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:38:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:83:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T17:53:09.999] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:78:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T17:53:25.060] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:80:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T18:04:16.232] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:78:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T18:04:38.387] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:80:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T18:07:10.360] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:78:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T18:07:24.347] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:80:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T18:09:28.150] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:80:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T18:10:07.152] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"15811111111","password":"111111s"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:77:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:27:54.059] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"15811111111","password":"111111s"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:24)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:77:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:28:07.266] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:24)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:34:20.092] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:24)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T22:34:33.298] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:24)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:35:32.975] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:24)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T22:35:45.221] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:24)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:36:44.397] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:24)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:38:12.895] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"15811111111","password":"1985zr"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:24)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:77:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:49:25.456] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"13222222222","password":"1221sed"}
+response time: undefined
+error name: BadRequestError
+error message: 用户名未注册或密码错误
+error stack: BadRequestError: 用户名未注册或密码错误
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:77:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:49:51.657] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:78:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T22:50:32.506] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:80:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:50:47.177] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:80:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:52:00.660] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试123","introduction":"简介123","content":"内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。","imageUrl":"","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:80:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:52:07.378] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试123","introduction":"简介123","content":"内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。","imageUrl":"","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:80:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T22:53:38.348] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"测试123","introduction":"简介123","content":"内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。内容。。","imageUrl":"","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:80:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:12:21.069] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:44:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:30:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:17:02.457] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:44:16)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:30:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:18:50.011] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:37:16)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:24:17.215] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T23:24:34.344] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T23:24:37.859] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T23:24:50.942] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T23:26:28.193] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T23:29:43.805] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:31:36.784] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/comment/submit
+request client ip: 127.0.0.1
+request body
+{"content":"haha"}
+response time: undefined
+error name: BadRequestError
+error message: 获取不到文章id
+error stack: BadRequestError: 获取不到文章id
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at exports.submit (/Users/zhangrende/Desktop/blog-project/server/src/controller/comment.js:14:9)
+    at router.post (/Users/zhangrende/Desktop/blog-project/server/src/router/comment.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+***** error log end ******
+
+[2020-02-16T23:31:43.622] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/comment/submit
+request client ip: 127.0.0.1
+request body
+{"content":"haha"}
+response time: undefined
+error name: BadRequestError
+error message: 获取不到文章id
+error stack: BadRequestError: 获取不到文章id
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at exports.submit (/Users/zhangrende/Desktop/blog-project/server/src/controller/comment.js:14:9)
+    at router.post (/Users/zhangrende/Desktop/blog-project/server/src/router/comment.js:10:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+***** error log end ******
+
+[2020-02-16T23:32:49.458] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:33:00.444] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:81:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:35:13.886] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: ServiceUnavailableError
+error message: 查询出错了
+error stack: ServiceUnavailableError: 查询出错了
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at exports.zan (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:114:9)
+    at router.post (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:26:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+***** error log end ******
+
+[2020-02-16T23:35:35.040] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: BadRequestError
+error message: 你已经点过赞了
+error stack: BadRequestError: 你已经点过赞了
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at exports.zan (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:117:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:37:05.915] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T23:37:18.300] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e48c1ea6264c17009ad8fa3"}
+response time: undefined
+error name: BadRequestError
+error message: 你已经点过赞了
+error stack: BadRequestError: 你已经点过赞了
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at exports.zan (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:117:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:39:05.505] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e495710ae505473ddd433d5"}
+response time: undefined
+error name: BadRequestError
+error message: 你已经点过赞了
+error stack: BadRequestError: 你已经点过赞了
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at exports.zan (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:117:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:41:12.467] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getDetail?id=5e495710ae505473ddd433d5
+request client ip: 127.0.0.1
+request query: {"id":"5e495710ae505473ddd433d5"}
+response time: undefined
+error name: TypeError
+error message: Cannot read property '_id' of undefined
+error stack: TypeError: Cannot read property '_id' of undefined
+    at exports.getArticalDetail (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:55:123)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:41:25.416] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getDetail?id=5e495710ae505473ddd433d5
+request client ip: 127.0.0.1
+request query: {"id":"5e495710ae505473ddd433d5"}
+response time: undefined
+error name: TypeError
+error message: Cannot read property '_id' of undefined
+error stack: TypeError: Cannot read property '_id' of undefined
+    at exports.getArticalDetail (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:55:123)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-02-16T23:43:54.469] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e495710ae505473ddd433d5"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T23:45:45.268] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e495710ae505473ddd433d5"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T23:47:59.919] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e495710ae505473ddd433d5"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+
+[2020-02-16T23:48:46.004] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"_id":"","title":"haha","introduction":"fewfewg","content":"wewegew","imageUrl":"","category":"5e181e2ca1a77c95daa48b32","state":2,"anonymous":false}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:36:14)
+    at module.exports (/Users/zhangrende/Desktop/blog-project/server/src/middleware/checkLoginStatus.js:5:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:79:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:3:361
+***** error log end ******
+

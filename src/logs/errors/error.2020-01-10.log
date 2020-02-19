@@ -1,0 +1,274 @@
+[2020-01-10T09:56:40.603] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"标题标题标题标题标题标题","introduction":"简介简介简介简介简介简介简介简介简介简介简介","artical":"## fafefe\n> fwefewge\nrgegwgwe","imageUrl":"http://10.105.24.141:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T09:59:33.292] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"twat","introduction":"twtw","artical":"casf","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:01:07.156] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"twat","introduction":"twtw","artical":"casf","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:07:27.964] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"111111","introduction":"222222222","artical":"## wtewtwegw\n> fsegseh\nghrhr","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:18:39.403] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"1111","introduction":"2222","artical":"## fewfweg\n> fwegweewg","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:26:03.689] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+undefined
+response time: undefined
+error name: UnsupportedMediaTypeError
+error message: specified encoding unsupported
+error stack: UnsupportedMediaTypeError: specified encoding unsupported
+    at getDecoder (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:51:11)
+    at readStream (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:180:15)
+    at executor (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:112:5)
+    at new Promise (<anonymous>)
+    at getRawBody (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:111:10)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/co-body/lib/json.js:41:14
+***** error log end ******
+
+[2020-01-10T10:28:15.290] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"biao ti","introduction":"简介简介简介简介简介简介简介","artical":"## fgergerhe\n> gehwehewh","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:30:48.752] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"biao ti","introduction":"简介简介简介简介简介简介简介","artical":"## fgergerhe\n> gehwehewh","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:34:38.990] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"biao ti","introduction":"简介简介简介简介简介简介简介","artical":"## fgergerhe\n> gehwehewh","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:36:47.835] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"biao ti","introduction":"简介简介简介简介简介简介简介","artical":"## fgergerhe\n> gehwehewh","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:40:19.499] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"qqqq","introduction":"wwwww","artical":"## fwegwgweg\n> fwegwg","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:41:36.075] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"1","introduction":"2","artical":"#fwf","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T10:43:52.500] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/save
+request client ip: 127.0.0.1
+request body
+{"title":"1","introduction":"2","artical":"# fef","imageUrl":"http://10.105.24.172:9000/upload/7a4709bdd3342736f630a3e7cdef5421.png","category":"","state":2,"anonymous":false}
+response time: undefined
+error name: BadRequestError
+error message: request aborted
+error stack: BadRequestError: request aborted
+    at IncomingMessage.onAborted (/Users/zhangrende/Desktop/blog-project/server/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (events.js:198:13)
+    at abortIncoming (_http_server.js:448:9)
+    at socketOnEnd (_http_server.js:464:5)
+    at Socket.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+***** error log end ******
+
+[2020-01-10T17:54:21.489] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/getList
+request client ip: 127.0.0.1
+request body
+{"categore":"5e181d8ea1a77c95daa48b31"}
+response time: undefined
+error name: TypeError
+error message: utils.populate: invalid path. Expected string. Got typeof `object`
+error stack: TypeError: utils.populate: invalid path. Expected string. Got typeof `object`
+    at populate (/Users/zhangrende/Desktop/blog-project/server/node_modules/mongoose/lib/utils.js:707:11)
+    at model.Query.Query.populate (/Users/zhangrende/Desktop/blog-project/server/node_modules/mongoose/lib/query.js:4566:30)
+    at Function.Find (/Users/zhangrende/Desktop/blog-project/server/src/model/operateData.js:30:6)
+    at exports.getArticalList (/Users/zhangrende/Desktop/blog-project/server/src/controller/artical.js:5:30)
+    at router.post (/Users/zhangrende/Desktop/blog-project/server/src/router/artical.js:14:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-bodyparser/index.js:73:54)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-body/index.js:148:14
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
