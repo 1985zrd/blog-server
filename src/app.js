@@ -15,14 +15,34 @@ const otherRouter = require('./router/other.js')
 
 const config = require('./config')
 
+const cors = require('koa2-cors')
+
 try {
   mongoose.set('useCreateIndex', true)
-  mongoose.connect(config.db.url, config.db.options)
+  mongoose.connect(config.db.url, config.db.options).then(res => {
+    // console.log(res)
+  }).catch(error => {
+    // console.log(error)
+  })
 } catch (e) {
   console.log(e)
 }
 
 const app = new Koa()
+
+app.use(cors())
+
+// app.use(async (ctx, next) => {
+//   ctx.set("Access-Control-Allow-Origin", "*");
+//   ctx.set("Content-Type", "application/json;charset=utf-8");
+//   ctx.set("Access-Control-Allow-Methods", "GET, POST, PUT,OPTIONS");
+//   ctx.set("Access-Control-Allow-Headers", "content-type");
+//   if (ctx.request.method === 'OPTIONS') {
+//     ctx.status = 200   
+//   } else {
+//     await next();
+//   }
+// })
 
 app.use(async (ctx, next) => { // 错误处理
   console.log(ctx.url, ctx.request.method)
