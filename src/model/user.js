@@ -6,7 +6,10 @@ let userSchema = new mongoose.Schema({
     type: String,
     unique: true // 必填
   }, // 用户名
-  password: String, // 密码
+  password: {
+    type: String,
+    select: false
+  }, // 密码
   email: {
     type: String,
     default: ''
@@ -17,7 +20,8 @@ let userSchema = new mongoose.Schema({
   }, // 头像
   role: {
     type: Number,
-    default: 2
+    default: 2,
+    select: false
   }, // 权限，0禁用、1禁言（不能发布和评论）、2默认可用、9最高管理员（后台管理员）
   createTime: {
     type: Date,

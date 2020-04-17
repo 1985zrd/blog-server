@@ -38,20 +38,11 @@ exports.getArticalDetail = async (ctx) => {
   const id = ctx.query.id
   let data
   try {
-    data = await Artical.Find({
-      where: {
-        _id: id
-      },
-      include: 'author',
-      includeword: {
-        username: 1,
-        email: 1
-      },
-    })
+    data = await Artical.findOneAndUpdate({_id: id}, {$inc: {visitor: 1}}).populate('author')
   } catch (e) {
     ctx.error(503, '查询数据库出错！')
   }
-  let result = JSON.parse(JSON.stringify(data[0]))
+  let result = JSON.parse(JSON.stringify(data))
   let isAlreadyStar = (ctx.session.user && ctx.session.user._id) ? (result.starList.indexOf(String(ctx.session.user._id)) !== -1) : false
   result['isAlreadyStar'] = isAlreadyStar
   return success_cb(result || {})

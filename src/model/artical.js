@@ -1,4 +1,5 @@
 const mongoose = require('mongoose')
+mongoose.set('useFindAndModify', false)
 const operateData = require('./operateData')
 
 const ObjectId = mongoose.Schema.Types.ObjectId
@@ -50,6 +51,11 @@ let articalSchema = new mongoose.Schema({
     type: Array,
     default: []
   }, // 点赞人的数组集合 ['_id']
+  following: {
+    type: [ {
+      type: ObjectId
+    } ]
+  },
   createTime: {
     type: Date,
     default: Date.now()
@@ -61,6 +67,7 @@ let articalSchema = new mongoose.Schema({
 })
 
 articalSchema.pre('save', function (next) {
+  this.createTime = Date.now()
   this.updateTime = Date.now()
   next()
 })

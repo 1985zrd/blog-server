@@ -1,6 +1,6 @@
 const Users = require('../model/user.js')
 const { success_cb } = require('../utils/res-model')
-const { cryptMD5, salt, checkEmail, checkMobile, checkPassword } = require('../utils/index')
+const { cryptMD5, salt, checkEmail, checkMobile, checkPassword, generateToken } = require('../utils/index')
 
 exports.signUp = async (ctx) => { // 注册
   // 判断字段是否合规
@@ -46,8 +46,11 @@ exports.signUp = async (ctx) => { // 注册
   }
   ctx.session.user = res
   return success_cb({
-    username: checkMobile(res.username) ? res.username.replace(/(\d{3})\d{4}(\d{3})/, '$1****$2') : res.username
+    token: await generateToken(res)
   })
+  // return success_cb({
+  //   username: checkMobile(res.username) ? res.username.replace(/(\d{3})\d{4}(\d{3})/, '$1****$2') : res.username
+  // })
 }
 
 exports.signIn = async (ctx) => {
@@ -82,11 +85,27 @@ exports.signIn = async (ctx) => {
   ctx.session.user = user[0]
   let username = user[0]['username']
   return success_cb({
-    username: checkMobile(username) ? username.replace(/(\d{3})\d{4}(\d{3})/, '$1****$2') : username
+    token: await generateToken(user[0])
   })
+  // return success_cb({
+  //   username: checkMobile(username) ? username.replace(/(\d{3})\d{4}(\d{3})/, '$1****$2') : username
+  // })
 }
 
 exports.signOut = async (ctx) => {
   ctx.session.user = null
   return success_cb({})
+}
+
+exports.userinfo = async (ctx) => {
+  if (ctx.session.user) {
+    try {
+      const user = await Users.findById({_id: ctx.session.user._id})
+      success_cb(user)
+    } catch (e) {
+      ctx.error(500, '用户查询出错')
+    }
+  } else {
+    ctx.error(400, '用户未登录')
+  }
 }

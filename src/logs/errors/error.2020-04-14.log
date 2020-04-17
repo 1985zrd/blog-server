@@ -1,0 +1,187 @@
+[2020-04-14T16:55:24.346] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户未登录
+error stack: BadRequestError: 用户未登录
+    at Object.throw (D:\blog-server\node_modules\_koa@2.11.0@koa\lib\context.js:97:11)
+    at Object.ctx.error (D:\blog-server\src\app.js:53:14)
+    at exports.userinfo (D:\blog-server\src\controller\user.js:99:9)
+    at router.post (D:\blog-server\src\router\user.js:24:20)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at allowedMethods (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:407:12)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\blog-server\src\app.js:96:9)
+***** error log end ******
+
+[2020-04-14T16:55:30.131] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户未登录
+error stack: BadRequestError: 用户未登录
+    at Object.throw (D:\blog-server\node_modules\_koa@2.11.0@koa\lib\context.js:97:11)
+    at Object.ctx.error (D:\blog-server\src\app.js:53:14)
+    at exports.userinfo (D:\blog-server\src\controller\user.js:99:9)
+    at router.post (D:\blog-server\src\router\user.js:24:20)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at allowedMethods (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:407:12)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\blog-server\src\app.js:96:9)
+***** error log end ******
+
+[2020-04-14T16:58:53.003] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户未登录
+error stack: BadRequestError: 用户未登录
+    at Object.throw (D:\blog-server\node_modules\_koa@2.11.0@koa\lib\context.js:97:11)
+    at Object.ctx.error (D:\blog-server\src\app.js:53:14)
+    at exports.userinfo (D:\blog-server\src\controller\user.js:103:9)
+    at router.post (D:\blog-server\src\router\user.js:24:20)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at allowedMethods (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:407:12)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\blog-server\src\app.js:96:9)
+***** error log end ******
+
+[2020-04-14T18:01:25.813] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: Authentication Error
+error stack: UnauthorizedError: Authentication Error
+    at Object.throw (D:\blog-server\node_modules\_koa@2.11.0@koa\lib\context.js:97:11)
+    at jwt (D:\blog-server\node_modules\_koa-jwt@3.6.0@koa-jwt\lib\index.js:23:22)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at allowedMethods (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:407:12)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\blog-server\src\app.js:96:9)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\blog-server\node_modules\_koa-generic-session@2.0.4@koa-generic-session\lib\session.js:280:15
+***** error log end ******
+
+[2020-04-14T18:01:49.247] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"rd_1985@163.com","password":"1985zrd"}
+response time: undefined
+error name: ReferenceError
+error message: res is not defined
+error stack: ReferenceError: res is not defined
+    at exports.signIn (D:\blog-server\src\controller\user.js:88:26)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-04-14T18:03:29.129] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"rd_1985@163.com","password":"1985zrd"}
+response time: undefined
+error name: TypeError
+error message: Cannot read property 'keys' of undefined
+error stack: TypeError: Cannot read property 'keys' of undefined
+    at exports.generateToken (D:\blog-server\src\utils\index.js:42:16)
+    at exports.signIn (D:\blog-server\src\controller\user.js:88:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-04-14T18:09:04.738] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: Authentication Error
+error stack: UnauthorizedError: Authentication Error
+    at Object.throw (D:\blog-server\node_modules\_koa@2.11.0@koa\lib\context.js:97:11)
+    at jwt (D:\blog-server\node_modules\_koa-jwt@3.6.0@koa-jwt\lib\index.js:23:22)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at allowedMethods (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:407:12)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\blog-server\src\app.js:96:9)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\blog-server\node_modules\_koa-generic-session@2.0.4@koa-generic-session\lib\session.js:280:15
+***** error log end ******
+
+[2020-04-14T18:09:23.588] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"rd_1985@163.com","password":"1985zrd"}
+response time: undefined
+error name: Error
+error message: Expected "payload" to be a plain object.
+error stack: Error: Expected "payload" to be a plain object.
+    at validate (D:\blog-server\node_modules\_jsonwebtoken@8.5.1@jsonwebtoken\sign.js:40:11)
+    at validatePayload (D:\blog-server\node_modules\_jsonwebtoken@8.5.1@jsonwebtoken\sign.js:62:10)
+    at Object.module.exports [as sign] (D:\blog-server\node_modules\_jsonwebtoken@8.5.1@jsonwebtoken\sign.js:114:7)
+    at exports.generateToken (D:\blog-server\src\utils\index.js:42:14)
+    at exports.signIn (D:\blog-server\src\controller\user.js:88:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+

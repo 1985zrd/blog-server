@@ -1,0 +1,76 @@
+[2020-04-07T15:42:05.058] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /undefined/api/artical/getList
+request client ip: null
+request body
+{}
+response time: undefined
+error name: NotFoundError
+error message: 地址不存在
+error stack: NotFoundError: 地址不存在
+    at Object.throw (D:\blog-server\node_modules\_koa@2.11.0@koa\lib\context.js:97:11)
+    at Object.ctx.error (D:\blog-server\src\app.js:53:14)
+    at app.use (D:\blog-server\src\app.js:98:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-04-07T17:03:05.689] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e4e4aa2b8620637839d8d3c"}
+response time: undefined
+error name: UnauthorizedError
+error message: 用户未登录
+error stack: UnauthorizedError: 用户未登录
+    at Object.throw (D:\blog-server\node_modules\_koa@2.11.0@koa\lib\context.js:97:11)
+    at Object.ctx.error (D:\blog-server\src\app.js:53:14)
+    at module.exports (D:\blog-server\src\middleware\checkLoginStatus.js:5:9)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\blog-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\blog-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at app.use (D:\blog-server\src\app.js:96:9)
+    at dispatch (D:\blog-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\blog-server\node_modules\_koa-generic-session@2.0.4@koa-generic-session\lib\session.js:280:15
+    at Generator.next (<anonymous>)
+    at step (D:\blog-server\node_modules\_koa-generic-session@2.0.4@koa-generic-session\lib\session.js:3:191)
+    at D:\blog-server\node_modules\_koa-generic-session@2.0.4@koa-generic-session\lib\session.js:3:361
+***** error log end ******
+
+[2020-04-07T17:03:29.961] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e4e4aa2b8620637839d8d3c"}
+response time: undefined
+error name: BadRequestError
+error message: 你已经点过赞了
+error stack: BadRequestError: 你已经点过赞了
+    at Object.throw (D:\blog-server\node_modules\_koa@2.11.0@koa\lib\context.js:97:11)
+    at Object.ctx.error (D:\blog-server\src\app.js:53:14)
+    at exports.zan (D:\blog-server\src\controller\artical.js:118:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-04-07T17:03:54.360] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/artical/zan
+request client ip: 127.0.0.1
+request body
+{"id":"5e846db5b8620637839d8d42"}
+response time: undefined
+error name: BadRequestError
+error message: 你已经点过赞了
+error stack: BadRequestError: 你已经点过赞了
+    at Object.throw (D:\blog-server\node_modules\_koa@2.11.0@koa\lib\context.js:97:11)
+    at Object.ctx.error (D:\blog-server\src\app.js:53:14)
+    at exports.zan (D:\blog-server\src\controller\artical.js:118:9)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+

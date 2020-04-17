@@ -30,19 +30,16 @@ try {
 
 const app = new Koa()
 
-app.use(cors())
-
-// app.use(async (ctx, next) => {
-//   ctx.set("Access-Control-Allow-Origin", "*");
-//   ctx.set("Content-Type", "application/json;charset=utf-8");
-//   ctx.set("Access-Control-Allow-Methods", "GET, POST, PUT,OPTIONS");
-//   ctx.set("Access-Control-Allow-Headers", "content-type");
-//   if (ctx.request.method === 'OPTIONS') {
-//     ctx.status = 200   
-//   } else {
-//     await next();
-//   }
-// })
+// app.use(cors({
+//   origin: function(ctx) {
+//     return '*'
+//   },
+//   exposeHeaders: ['WWW-Authenticate', 'Server-Authorization'],
+//   maxAge: 5,
+//   credentials: true,
+//   allowMethods: ['GET', 'POST', 'DELETE', 'PUT', 'DELETE', 'OPTIONS'],
+//   allowHeaders: ['Content-Type', 'Authorization', 'Accept', 'Content-Length', 'X-Requested-With']
+// }))
 
 app.use(async (ctx, next) => { // 错误处理
   console.log(ctx.url, ctx.request.method)

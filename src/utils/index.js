@@ -1,5 +1,9 @@
 const crypto = require('crypto')
 const os = require('os')
+const jwt = require("jsonwebtoken")
+const config = require('../config/index')
+console.log(config)
+const secret = 'rd_1985@163.com'
 
 exports.salt = '1985zrd'
 
@@ -32,4 +36,15 @@ exports.checkPassword = function (password) {
 
 exports.checkMobile = function (mobile) {
   return /^1[0-9]{10}$/.test(mobile) // 11位手机号
+}
+
+exports.generateToken = async (userinfo) => {
+  return jwt.sign(
+    userinfo,
+    secret,
+    {
+      expiresIn: '2h'
+      // 设置 token 过期时间，一小时后，秒为单位
+    }
+  )
 }
