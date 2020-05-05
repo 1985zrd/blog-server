@@ -2,11 +2,7 @@ const Router = require('koa-router')
 // const { CustomError } = require('../utils/res-model.js')
 const xss = require('xss')
 
-const jwtAuth = require("koa-jwt")
-
 const config = require('../config/index')
-
-const secret = 'rd_1985@163.com'
 
 const { signUp, signIn, signOut, userinfo } = require('../controller/user')
 
@@ -26,9 +22,7 @@ router.post('/signOut', async (ctx, next) => {
   ctx.body = await signOut(ctx)
 })
 
-router.post('/userinfo', jwtAuth({
-  secret
-}), async (ctx, next) => {
+router.post('/userinfo', async (ctx, next) => {
   ctx.body = await userinfo(ctx)
 })
 

@@ -45,8 +45,11 @@ exports.signUp = async (ctx) => { // 注册
     ctx.error(503, '保存出错')
   }
   ctx.session.user = res
+  let token = await generateToken(res)
+  console.log(token)
   return success_cb({
-    token: await generateToken(res)
+    username: res.username,
+    token
   })
   // return success_cb({
   //   username: checkMobile(res.username) ? res.username.replace(/(\d{3})\d{4}(\d{3})/, '$1****$2') : res.username
@@ -84,8 +87,10 @@ exports.signIn = async (ctx) => {
   }
   ctx.session.user = user[0]
   let username = user[0]['username']
+  let token = await generateToken(user[0])
   return success_cb({
-    token: await generateToken(user[0])
+    username,
+    token
   })
   // return success_cb({
   //   username: checkMobile(username) ? username.replace(/(\d{3})\d{4}(\d{3})/, '$1****$2') : username
@@ -98,10 +103,12 @@ exports.signOut = async (ctx) => {
 }
 
 exports.userinfo = async (ctx) => {
+  console.log('session...')
+  console.log(ctx.session)
   if (ctx.session.user) {
     try {
       const user = await Users.findById({_id: ctx.session.user._id})
-      success_cb(user)
+      return success_cb(user)
     } catch (e) {
       ctx.error(500, '用户查询出错')
     }

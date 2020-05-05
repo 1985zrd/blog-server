@@ -6,6 +6,8 @@ const MongooseSrore = require('koa-generic-session-mongo')
 const static = require('koa-static')
 const koaBody = require('koa-body')
 
+const jwtAuth = require("koa-jwt")
+
 const log = require('./config/log.js')
 
 const articalRouter = require('./router/artical.js')
@@ -98,6 +100,14 @@ app.use(async (ctx, next) => {
     ctx.error(404, '地址不存在')
   }
 })
+
+const secret = 'rd_1985@163.com'
+
+app.use(jwtAuth({
+  secret
+}).unless({
+  path: [/^\/api\/user\/[signUp|signIn|signOut]/, /^\/api\/artical/, /^\/api\/comment/, /^\/api\/getCategory/]
+}))
 
 app.use(articalRouter.routes()).use(articalRouter.allowedMethods())
 app.use(userRouter.routes()).use(userRouter.allowedMethods())

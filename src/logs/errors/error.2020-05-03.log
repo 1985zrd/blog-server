@@ -1,0 +1,260 @@
+[2020-05-03T16:56:51.924] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"rd_1985@163.com","password":"1985zrd"}
+response time: undefined
+error name: Error
+error message: Expected "payload" to be a plain object.
+error stack: Error: Expected "payload" to be a plain object.
+    at validate (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:40:11)
+    at validatePayload (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:62:10)
+    at Object.module.exports [as sign] (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:114:7)
+    at exports.generateToken (/Users/zhangrende/Desktop/blog-project/server/src/utils/index.js:42:14)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:88:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-05-03T16:58:13.696] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"rd_1985@163.com","password":"1985zrd"}
+response time: undefined
+error name: Error
+error message: Expected "payload" to be a plain object.
+error stack: Error: Expected "payload" to be a plain object.
+    at validate (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:40:11)
+    at validatePayload (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:62:10)
+    at Object.module.exports [as sign] (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:114:7)
+    at exports.generateToken (/Users/zhangrende/Desktop/blog-project/server/src/utils/index.js:42:14)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:88:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-05-03T17:34:02.096] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"rd_1985@163.com","password":"1985zrd"}
+response time: undefined
+error name: Error
+error message: Expected "payload" to be a plain object.
+error stack: Error: Expected "payload" to be a plain object.
+    at validate (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:40:11)
+    at validatePayload (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:62:10)
+    at Object.module.exports [as sign] (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:114:7)
+    at exports.generateToken (/Users/zhangrende/Desktop/blog-project/server/src/utils/index.js:42:14)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:89:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-05-03T17:35:10.951] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"rd_1985@163.com","password":"1985zrd"}
+response time: undefined
+error name: Error
+error message: Expected "payload" to be a plain object.
+error stack: Error: Expected "payload" to be a plain object.
+    at validate (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:40:11)
+    at validatePayload (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:62:10)
+    at Object.module.exports [as sign] (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:114:7)
+    at exports.generateToken (/Users/zhangrende/Desktop/blog-project/server/src/utils/index.js:42:14)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:90:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-05-03T17:37:58.513] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"rd_1985@163.com","password":"1985zrd"}
+response time: undefined
+error name: Error
+error message: Expected "payload" to be a plain object.
+error stack: Error: Expected "payload" to be a plain object.
+    at validate (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:40:11)
+    at validatePayload (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:62:10)
+    at Object.module.exports [as sign] (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:114:7)
+    at exports.generateToken (/Users/zhangrende/Desktop/blog-project/server/src/utils/index.js:43:14)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:90:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-05-03T17:39:49.418] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/signIn
+request client ip: 127.0.0.1
+request body
+{"username":"rd_1985@163.com","password":"1985zrd"}
+response time: undefined
+error name: Error
+error message: Expected "payload" to be a plain object.
+error stack: Error: Expected "payload" to be a plain object.
+    at validate (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:40:11)
+    at validatePayload (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:62:10)
+    at Object.module.exports [as sign] (/Users/zhangrende/Desktop/blog-project/server/node_modules/jsonwebtoken/sign.js:114:7)
+    at exports.generateToken (/Users/zhangrende/Desktop/blog-project/server/src/utils/index.js:43:14)
+    at exports.signIn (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:90:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-05-03T17:50:28.188] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: Authentication Error
+error stack: UnauthorizedError: Authentication Error
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at jwt (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-jwt/lib/index.js:23:22)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:96:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+***** error log end ******
+
+[2020-05-03T17:53:03.501] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: Authentication Error
+error stack: UnauthorizedError: Authentication Error
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at jwt (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-jwt/lib/index.js:23:22)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:96:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+***** error log end ******
+
+[2020-05-03T17:55:34.793] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: UnauthorizedError
+error message: Authentication Error
+error stack: UnauthorizedError: Authentication Error
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at jwt (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-jwt/lib/index.js:23:22)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/zhangrende/Desktop/blog-project/server/src/app.js:96:9)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-generic-session/lib/session.js:280:15
+***** error log end ******
+
+[2020-05-03T18:00:31.715] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户未登录
+error stack: BadRequestError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:53:14)
+    at exports.userinfo (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:114:9)
+    at router.post (/Users/zhangrende/Desktop/blog-project/server/src/router/user.js:33:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at jwt (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-jwt/lib/index.js:75:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-05-03T18:03:29.391] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户未登录
+error stack: BadRequestError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:53:14)
+    at exports.userinfo (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:118:9)
+    at router.post (/Users/zhangrende/Desktop/blog-project/server/src/router/user.js:33:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at jwt (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-jwt/lib/index.js:75:16)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+***** error log end ******
+
+[2020-05-03T18:20:05.114] [ERROR] errorLog - 
+***** error log start *****
+request originalUrl: /api/user/userinfo
+request client ip: 127.0.0.1
+request body
+{}
+response time: undefined
+error name: BadRequestError
+error message: 用户未登录
+error stack: BadRequestError: 用户未登录
+    at Object.throw (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa/lib/context.js:97:11)
+    at Object.ctx.error (/Users/zhangrende/Desktop/blog-project/server/src/app.js:55:14)
+    at exports.userinfo (/Users/zhangrende/Desktop/blog-project/server/src/controller/user.js:116:9)
+    at router.post (/Users/zhangrende/Desktop/blog-project/server/src/router/user.js:26:20)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at allowedMethods (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:407:12)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-router/lib/router.js:332:32)
+    at dispatch (/Users/zhangrende/Desktop/blog-project/server/node_modules/koa-compose/index.js:42:32)
+    at /Users/zhangrende/Desktop/blog-project/server/node_modules/koa-unless/index.js:26:14
+***** error log end ******
+

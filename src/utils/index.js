@@ -40,7 +40,9 @@ exports.checkMobile = function (mobile) {
 
 exports.generateToken = async (userinfo) => {
   return jwt.sign(
-    userinfo,
+    {
+      username: userinfo.username || ''
+    },
     secret,
     {
       expiresIn: '2h'
